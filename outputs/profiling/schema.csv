@@ -1,0 +1,10 @@
+column,dtype,non_null,null,unique
+Invoice,object,1067371,0,53628
+StockCode,object,1067371,0,5305
+Description,object,1062989,4382,5698
+Quantity,int64,1067371,0,1057
+InvoiceDate,datetime64[us],1067371,0,47635
+Price,float64,1067371,0,2807
+Customer ID,float64,824364,243007,5942
+Country,str,1067371,0,43
+SourceYear,str,1067371,0,2

@@ -1,0 +1,7 @@
+check,count,pct_of_rows
+cancelled_invoice_prefix_C,19494,1.8263565339511754
+quantity_le_0,22950,2.1501427338760375
+price_le_0,6207,0.5815222635803297
+missing_description,4382,0.4105414143723223
+missing_customer_id,243007,22.766872999172733
+exact_duplicates,12133,1.1367181607894536

@@ -1,0 +1,5 @@
+stage,rows,pct_of_raw
+raw,1067371,100.0
+after_exact_dedup,1055238,98.86328183921054
+clean_positive_sales,1029609,96.46214858751081
+returns_or_cancellations,22890,2.1445214456828974
